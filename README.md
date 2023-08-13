@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alok Gupta
 - 👀 I’m interested in technical skills and coding is one of them
 - 🌱 I’m new in the field and currently studing 
-- 💞️ I don't want to collaborate on any type of project
+- 💞️ I don't want to miss any opportunity and love to collaborate
 - 📫 alokg252@gmail.com
 
 <!---
