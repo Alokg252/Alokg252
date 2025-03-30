@@ -22,6 +22,7 @@
 ![Express.js](https://img.shields.io/badge/express-%23F7DF1E.svg?style=for-the-badge&logo=express&logoColor=%23222222) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.JS-%23333333.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-%23F44336.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%23343434.svg?style=for-the-badge&logo=sass&logoColor=%23CD6799)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23555555.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DBFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
