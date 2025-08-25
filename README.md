@@ -37,6 +37,8 @@
 ![Docker](https://img.shields.io/badge/docker-%233399ff.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23343434.svg?style=for-the-badge&logo=googlecloud&logoColor=%23FF9900)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-44a6a5.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alokg252&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alokg252&theme=algolia&hide_border=true)<br/>
